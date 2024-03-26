@@ -9,6 +9,7 @@ Hello there! 👋 I'm Oscar Andres, a passionate DevOps student eager to explore
 I am currently immersed in the dynamic world of DevOps, where I am gaining proficiency in various essential areas. My journey encompasses a range of skills and technologies that form the backbone of modern software development and IT operations.
 
 ## 🔧 Skills and Technologies
+aws bash bootstrap css3 docker express git grafana html5 illustrator javascript jenkins jest linux mongodb mysql nextjs nginx nodejs photoshop python react selenium
 
 ### Cloud Computing Essentials
 - Familiar with AWS cloud platform.
